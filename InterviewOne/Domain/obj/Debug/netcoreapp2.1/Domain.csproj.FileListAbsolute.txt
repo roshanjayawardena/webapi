@@ -1,0 +1,14 @@
+D:\InterviewWorks\InterviewOne\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+D:\InterviewWorks\InterviewOne\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+D:\InterviewWorks\InterviewOne\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+D:\InterviewWorks\InterviewOne\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+D:\InterviewWorks\InterviewOne\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+D:\InterviewWorks\InterviewOne\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+D:\InterviewWorks\InterviewOne\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\InterviewWorks\InterviewOne\Domain\bin\Debug\netcoreapp2.1\Common.dll
+D:\InterviewWorks\InterviewOne\Domain\bin\Debug\netcoreapp2.1\Common.pdb
+D:\InterviewWorks\InterviewOne\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CopyComplete
+D:\InterviewWorks\InterviewOne\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+D:\InterviewWorks\InterviewOne\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+D:\InterviewWorks\InterviewOne\Domain\bin\Debug\netcoreapp2.1\Domain.runtimeconfig.json
+D:\InterviewWorks\InterviewOne\Domain\bin\Debug\netcoreapp2.1\Domain.runtimeconfig.dev.json
